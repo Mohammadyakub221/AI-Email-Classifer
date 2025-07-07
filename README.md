@@ -6,8 +6,8 @@ This project is a simple AI-based email classifier built with Python and scikit-
 ## 📂 Files
 
 - **Smart_Email_Classifier.ipynb** — Main Jupyter Notebook with all code.
-- **emails_dataset_400.csv** — Dataset containing 400 email samples.
-- **requirements.txt** — Python dependencies.
+- **emails_dataset.csv** — Dataset containing 400 email samples.
+- **email_classifier.joblib**, **vectorizer.joblib**-  NB Model and Tfid Model 
 
 ## 🚀 How to Run
 
@@ -29,14 +29,4 @@ This project is a simple AI-based email classifier built with Python and scikit-
 
 4. **Run all cells** to train and test the model.
 
-## ⚙️ Requirements
 
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- jupyter
-
-## 📜 License
-
-Free to use under the MIT License.
